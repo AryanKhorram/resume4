@@ -9,9 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa3b66d2-c020-4297-bacc-267a3826c65b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/resume.html" afterDir="false" />
-    </list>
+    <list default="true" id="fa3b66d2-c020-4297-bacc-267a3826c65b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +59,7 @@
       <updated>1601873490182</updated>
       <workItem from="1601873491951" duration="8000" />
       <workItem from="1601873510541" duration="23000" />
+      <workItem from="1601873544787" duration="340000" />
     </task>
     <servers />
   </component>
